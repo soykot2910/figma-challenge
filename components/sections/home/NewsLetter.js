@@ -11,7 +11,7 @@ const NewsLetter = () => {
         <div className="flex justify-between gap-8 items-center mt-5">
           <input
             placeholder="Press ‘C’ to type your E-mail"
-            className="bg-white rounded-md px-5 py-4 w-8/12"
+            className="bg-white rounded-md px-5 py-4 w-8/12 outline-none"
           />
           <div className="w-4/12">
             <BtnContained

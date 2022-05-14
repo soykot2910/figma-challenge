@@ -1,5 +1,5 @@
 import React from "react";
-import { BtnContained } from "./Button";
+import { BtnContained } from "../../common/Button";
 
 const Hero = () => {
   return (

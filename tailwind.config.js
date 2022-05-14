@@ -23,7 +23,8 @@ module.exports = {
     extend: {
       boxShadow: {
         btn: "0px 1px 5px rgba(0, 0, 0, 0.12), 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 0px rgba(0, 0, 0, 0.14)",
-        blogBox:"0px 8px 14px rgba(187, 187, 187, 0.15)"
+        blogBox:"0px 8px 14px rgba(187, 187, 187, 0.15)",
+        slideBox:"0px 10px 30px rgba(0, 0, 0, 0.05)"
       },
       colors: {
         main: "#215A51",
